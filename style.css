@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #16d9e3;
+  color: #2e0459;
 }
 
 .start {
@@ -39,7 +39,7 @@ h1 {
   height: 100vh;
   width: 100vw;
   transition: margin 0.5s ease-out;
-  background: linear-gradient(90deg, #29323c 0%, #485563 100%);
+  background: linear-gradient(90deg, #501072 0%, #cfa8ef 100%);
 }
 
 .screen.up {
@@ -69,8 +69,8 @@ h1 {
 }
 
 .time-btn:hover {
-  border: 2px solid #16d9e3;
-  color: #16d9e3;
+  border: 2px solid #2e0459;
+  color: #2e0459;
 }
 
 .hide {
@@ -78,7 +78,7 @@ h1 {
 }
 
 .primary {
-  color: #16d9e3;
+  color: #2e0459;
 }
 
 .board {
@@ -88,8 +88,8 @@ h1 {
   position: relative;
   width: 500px;
   height: 500px;
-  background: linear-gradient(118.38deg, #29323c -4.6%, #485563 200.44%);
-  box-shadow: -8px -8px 20px #2a333d, 10px 7px 20px #475462;
+  background: linear-gradient(118.38deg, #6800bd -4.6%, #cc9af4 200.44%);
+  box-shadow: -8px -8px 20px #5a009e, 10px 7px 20px #c17bff;
   border-radius: 30px;
   overflow: hidden;
 }
